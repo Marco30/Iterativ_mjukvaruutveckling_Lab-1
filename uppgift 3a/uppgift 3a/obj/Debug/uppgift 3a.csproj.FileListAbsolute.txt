@@ -1,0 +1,6 @@
+C:\Users\Marco\C#\uppgift 3a\uppgift 3a\bin\Debug\uppgift 3a.exe.config
+C:\Users\Marco\C#\uppgift 3a\uppgift 3a\obj\Debug\uppgift 3a.csprojResolveAssemblyReference.cache
+C:\Users\Marco\C#\uppgift 3a\uppgift 3a\bin\Debug\uppgift 3a.exe
+C:\Users\Marco\C#\uppgift 3a\uppgift 3a\bin\Debug\uppgift 3a.pdb
+C:\Users\Marco\C#\uppgift 3a\uppgift 3a\obj\Debug\uppgift 3a.exe
+C:\Users\Marco\C#\uppgift 3a\uppgift 3a\obj\Debug\uppgift 3a.pdb

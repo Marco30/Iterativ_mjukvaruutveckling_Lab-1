@@ -1,0 +1,6 @@
+C:\Users\Marco\C#\uppgift 1c\uppgift 1c\bin\Debug\uppgift 1c.exe.config
+C:\Users\Marco\C#\uppgift 1c\uppgift 1c\bin\Debug\uppgift 1c.exe
+C:\Users\Marco\C#\uppgift 1c\uppgift 1c\bin\Debug\uppgift 1c.pdb
+C:\Users\Marco\C#\uppgift 1c\uppgift 1c\obj\Debug\uppgift 1c.csprojResolveAssemblyReference.cache
+C:\Users\Marco\C#\uppgift 1c\uppgift 1c\obj\Debug\uppgift 1c.exe
+C:\Users\Marco\C#\uppgift 1c\uppgift 1c\obj\Debug\uppgift 1c.pdb

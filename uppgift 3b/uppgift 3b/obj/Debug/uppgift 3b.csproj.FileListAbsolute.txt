@@ -1,0 +1,9 @@
+C:\Users\Marco\C#\uppgift 3b\uppgift 3b\bin\Debug\uppgift 3b.exe.config
+C:\Users\Marco\C#\uppgift 3b\uppgift 3b\bin\Debug\uppgift 3b.exe
+C:\Users\Marco\C#\uppgift 3b\uppgift 3b\bin\Debug\uppgift 3b.pdb
+C:\Users\Marco\C#\uppgift 3b\uppgift 3b\obj\Debug\uppgift 3b.csprojResolveAssemblyReference.cache
+C:\Users\Marco\C#\uppgift 3b\uppgift 3b\obj\Debug\uppgift 3b.exe
+C:\Users\Marco\C#\uppgift 3b\uppgift 3b\obj\Debug\uppgift 3b.pdb
+C:\Users\Marco\1DV404_HT14_[Grupp E3]_[Marco villegas]\uppgift 3b\uppgift 3b\bin\Debug\uppgift 3b.exe.config
+C:\Users\Marco\1DV404_HT14_[Grupp E3]_[Marco villegas]\uppgift 3b\uppgift 3b\obj\Debug\uppgift 3b.exe
+C:\Users\Marco\1DV404_HT14_[Grupp E3]_[Marco villegas]\uppgift 3b\uppgift 3b\obj\Debug\uppgift 3b.pdb
